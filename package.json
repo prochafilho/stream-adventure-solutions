@@ -1,0 +1,27 @@
+{
+  "name": "stream-adventure-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beep_boop.js",
+  "dependencies": {
+    "stream-adventure": "^4.1.1",
+    "through2": "^2.0.3",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prochafilho/stream-adventure-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "closed",
+  "bugs": {
+    "url": "https://github.com/prochafilho/stream-adventure-solutions/issues"
+  },
+  "homepage": "https://github.com/prochafilho/stream-adventure-solutions#readme"
+}
